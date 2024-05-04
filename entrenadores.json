@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "61d74c9833c9f0547630c561"
+  },
+  "Nombres": "Emilio",
+  "Apellidos": "Gómez Rodríguez",
+  "Edad": 39,
+  "Cedula": 12008456,
+  "Celular": 3106789456,
+  "Equipo": "Águilas SC",
+  "Nacionalidad": "Colombiano"
+},{
+  "_id": {
+    "$oid": "61d74ced33c9f0547630c562"
+  },
+  "Nombres": "Leonardo",
+  "Apellidos": "Martínez García",
+  "Edad": 43,
+  "Cedula": 80234567,
+  "Celular": 3178901234,
+  "Equipo": "Tigres FC",
+  "Nacionalidad": "Colombiano"
+}]

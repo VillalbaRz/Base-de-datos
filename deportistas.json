@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "61d7214433c9f0547630c55c"
+  },
+  "Nombres": "Juan",
+  "Apellidos": "López Martínez",
+  "Edad": 24,
+  "Cedula": 1012354879,
+  "Celular": 3106547890,
+  "Equipo": "Tigres FC",
+  "Ranking": 7.2,
+  "Nacionalidad": "Mexicano",
+  "Ciudad": "Guadalajara"
+},{
+  "_id": {
+    "$oid": "61d721be33c9f0547630c55d"
+  },
+  "Nombres": "Diego",
+  "Apellidos": "González Pérez",
+  "Edad": 27,
+  "Cedula": 1007896543,
+  "Celular": 3178904567,
+  "Equipo": "Águilas SC",
+  "Ranking": 8.7,
+  "Nacionalidad": "Costarricense",
+  "Ciudad": "San José"
+},{
+  "_id": {
+    "$oid": "61d7846df5563ceee5822cfb"
+  },
+  "Nombres": "Andrés",
+  "Apellidos": "Díaz Sánchez",
+  "Edad": 22,
+  "Cedula": 1003214568,
+  "Celular": 3135678901,
+  "Equipo": "Águilas SC",
+  "Ranking": 7.9,
+  "Nacionalidad": "Ecuatoriano",
+  "Ciudad": "Quito"
+},{
+  "_id": {
+    "$oid": "61d7847df5563ceee5822cfc"
+  },
+  "Nombres": "Matías",
+  "Apellidos": "Rodríguez López",
+  "Edad": 25,
+  "Cedula": 1025897412,
+  "Celular": 3045671234,
+  "Equipo": "Tigres FC",
+  "Ranking": 8.4,
+  "Nacionalidad": "Uruguayo",
+  "Ciudad": "Montevideo"
+},{
+  "_id": {
+    "$oid": "61d7859ff5563ceee5822cfe"
+  },
+  "Nombres": "Gabriel",
+  "Apellidos": "Hernández García",
+  "Edad": 23,
+  "Cedula": 1006547890,
+  "Celular": 3123456789,
+  "Equipo": "Tigres FC",
+  "Ranking": 8.2,
+  "Nacionalidad": "Panameño",
+  "Ciudad": "Panamá City"
+}]

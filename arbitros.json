@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "61d71e0d33c9f0547630c55a"
+  },
+  "Nombres": "Carlos Alberto",
+  "Apellidos": "González López",
+  "Edad": 42,
+  "Cedula": 1008765432,
+  "Celular": 3109876543,
+  "Nacionalidad": "Uruguayo"
+},{
+  "_id": {
+    "$oid": "61d71ed833c9f0547630c55b"
+  },
+  "Nombres": "Felipe",
+  "Apellidos": "Martínez Vargas",
+  "Edad": 29,
+  "Cedula": 1002023456,
+  "Celular": 3156789012,
+  "Nacionalidad": "Mexicano"
+},{
+  "_id": {
+    "$oid": "61d783c2f5563ceee5822cf9"
+  },
+  "Nombres": "Diego Alejandro",
+  "Apellidos": "García Silva",
+  "Edad": 35,
+  "Cedula": 1001234567,
+  "Celular": 3112345678,
+  "Nacionalidad": "Argentino"
+},{
+  "_id": {
+    "$oid": "61d783e7f5563ceee5822cfa"
+  },
+  "Nombres": "Juan Pablo",
+  "Apellidos": "Pérez Hernández",
+  "Edad": 32,
+  "Cedula": 1003456789,
+  "Celular": 3178901234,
+  "Nacionalidad": "Ecuatoriano"
+}]

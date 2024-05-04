@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "61d74d8233c9f0547630c563"
+  },
+  "Nombre": "Tigres FC",
+  "Ciudad": "Bogotá",
+  "Año": 1998
+},{
+  "_id": {
+    "$oid": "61d74da233c9f0547630c564"
+  },
+  "Nombre": "Águilas SC",
+  "Ciudad": "Soacha",
+  "Año": 1990
+}]

@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "61d725fb33c9f0547630c55f"
+  },
+  "Fecha": "27/04/2024",
+  "Hora": "11:00 am",
+  "Lugar": "Polideportivo Nuevo Muzú",
+  "Equipo Local": "Tigres FC",
+  "Equipo Visitante": "Águilas SC",
+  "Estado": "Jugado",
+  "Resultado Final": "Victoria Local",
+  "Arbitros": [
+    "Carlos Alberto González López",
+    "Felipe Martínez Vargas"
+  ]
+},{
+  "_id": {
+    "$oid": "61d729a133c9f0547630c560"
+  },
+  "Fecha": "04/05/2024",
+  "Hora": "11:00 am",
+  "Lugar": "CANCHA DE MICRO FUTBOL PASEO REAL,",
+  "Equipo Local": "Águilas SC",
+  "Equipo Visitante": "Tigres FC",
+  "Estado": "Jugado",
+  "Resultado Final": "Empate",
+  "Arbitros": [
+    "Diego Alejandro García Silva",
+    "Juan Pablo Pérez Hernández"
+  ]
+}]
